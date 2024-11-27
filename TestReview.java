@@ -51,5 +51,6 @@ public class TestReview {
     System.out.println(Review.sentimentVal("ugly"));
     System.out.println(Review.sentimentVal("smelly"));
     System.out.println(Review.fakeReviewStronger("SimpleReview.txt"));
+    System.out.println(Review.starRating("smelly");
   }
 }
